@@ -13,7 +13,6 @@ pip install streamlit
 from transformers import pipeline
 import numpy as np
 from sklearn.metrics import accuracy_score
-import streamlit as st
 import pandas as pd
 from sklearn.model_selection import train_test_split
 
